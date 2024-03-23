@@ -3,9 +3,9 @@
 
 Implementation of BadCLIP proposed in "BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP", accepted to CVPR2024.
 
-```shell
+```python
 @inproceedings{bai2023badclip,
-  title={BadCLIP: Trigger-Aware Prompt Learning \for Backdoor Attacks on CLIP},
+  title={BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP},
   author={Bai, Jiawang and Gao, Kuofeng and Min, Shaobo and Xia, Shu-Tao and Li, Zhifeng and Liu, Wei},
   booktitle={CVPR},
   year={2024}
